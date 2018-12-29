@@ -3,6 +3,8 @@ Tutorials for the Transforms By Example toolset (TBX):
 
 Starting a TBX Project: https://vimeo.com/307838594
 
+Adapting and Reusing FHIR Transforms:  https://vimeo.com/308704443
+
 Other videos:
 
 V2 to FHIR Mapping project:  https://www.youtube.com/watch?v=5eZ-A2q0c4Q
