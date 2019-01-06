@@ -1,13 +1,13 @@
 # TBX-Tutorials
 Tutorials for the Transforms By Example toolset (TBX):
 
-Introduction to TBX (9 mins) https://vimeo.com/308794549
+Introduction to TBX (9 mins): https://vimeo.com/308794549
 
-Starting a TBX Project: https://vimeo.com/307838594
+Starting a TBX Project (28 mins) : https://vimeo.com/307838594
 
-Adapting and Reusing FHIR Transforms:  https://vimeo.com/308704443
+Adapting and Reusing FHIR Transforms (19 mins):  https://vimeo.com/308704443
 
-Java Transforms with TBX (17 mins) https://vimeo.com/309713085
+Java Transforms with TBX (17 mins): https://vimeo.com/309713085
 
 Other videos:
 
